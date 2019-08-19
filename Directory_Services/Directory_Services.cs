@@ -8,9 +8,9 @@ using System.Text;
 
 namespace Directory_Services
 {
-    public partial class Service1 : ServiceBase
+    public partial class Directory_Services : ServiceBase
     {
-        public Service1()
+        public Directory_Services()
         {
             InitializeComponent();
         }

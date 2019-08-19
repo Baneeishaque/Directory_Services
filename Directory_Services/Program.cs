@@ -15,7 +15,7 @@ namespace Directory_Services
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new Directory_Services()
             };
             ServiceBase.Run(ServicesToRun);
         }

@@ -1,6 +1,6 @@
 ﻿namespace Directory_Services
 {
-    partial class Service1
+    partial class Directory_Services
     {
         /// <summary> 
         /// Required designer variable.
@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            // 
+            // Directory_Services
+            // 
+            this.ServiceName = "Directory_Services";
+
         }
 
         #endregion
